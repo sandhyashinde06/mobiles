@@ -1,2 +1,15 @@
 # This is a sample file created from remote repo.
 print("Sample file from remote repo")
+Hey Hi
+This is Sandhya.
+
+
+I am a developer.
+Coding for Mobiles category 
+adding code.. to commit in local..
+changes added from remote.. 
+Comit from local.
+
+adding details from remote.. with new commit ID
+copied content of mobiles file to sandhya file.
+adding another commit from local
